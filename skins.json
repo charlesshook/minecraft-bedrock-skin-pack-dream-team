@@ -1,0 +1,13 @@
+{
+    "geometry": "skinpacks/skins.json",
+    "skins": [
+      {
+        "localization_name": "Neon Green",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "dream.png",
+        "type": "free"
+      }
+    ],
+    "serialize_name": "Dream Team",
+    "localization_name": "Dream Team"
+  }
