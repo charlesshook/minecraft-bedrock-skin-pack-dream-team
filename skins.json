@@ -1,0 +1,31 @@
+{
+    "geometry": "skinpacks/skins.json",
+    "skins": [
+      {
+        "localization_name": "Dream",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "dream.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "GeorgeNotFound",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "georgenotfound.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "BadBoyHalo",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "badboyhalo.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "Sapnap",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "sapnap.png",
+        "type": "free"
+      }
+    ],
+    "serialize_name": "Dream Team",
+    "localization_name": "Dream Team"
+  }
