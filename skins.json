@@ -12,6 +12,18 @@
         "geometry": "geometry.humanoid.custom",
         "texture": "georgenotfound.png",
         "type": "free"
+      },
+      {
+        "localization_name": "BadBoyHalo",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "badboyhalo.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "Sapnap",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "sapnap.png",
+        "type": "free"
       }
     ],
     "serialize_name": "Dream Team",
