@@ -5,6 +5,9 @@
       "uuid": "07749f43-c5b8-49ee-8c27-0927f345449a",
       "version": [ 1, 0, 0 ]
     },
+    "metadata": {
+      "authors": [ "CHUCKALICIOUS" ]
+    },
     "modules": [
       {
         "type": "skin_pack",
