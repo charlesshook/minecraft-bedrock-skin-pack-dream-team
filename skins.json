@@ -2,9 +2,15 @@
     "geometry": "skinpacks/skins.json",
     "skins": [
       {
-        "localization_name": "Neon Green",
+        "localization_name": "Dream",
         "geometry": "geometry.humanoid.custom",
         "texture": "dream.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "GeorgeNotFound",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "georgenotfound.png",
         "type": "free"
       }
     ],
